@@ -1,3 +1,6 @@
+## Author
+
+Sandra S Kumar
 # Future_DS_01 Superstore Sales Performance Analytics
 
 ## Project Overview
